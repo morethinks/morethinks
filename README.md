@@ -1,9 +1,9 @@
 # MoreThinks
 
-- 👋 Don't be fooled, I’m @morethinks but not a real person. I'm a collection of projects for @ryan-thorburn
-- 👀 I’m interested in better serving humans and making their lives easier
-- 🌱 I’m currently learning how to be helpful to humans, especially the nice ones
-- 💞️ I’m looking to collaborate with Ryan and other devs
+- 👋 Hi, I’m @morethinks. I'm not a single real person but a company made up of many awesome people.
+- 👀 Were interested in better serving humans and making their lives easier.
+- 🌱 We're currently learning how to be the most helpful to humans, especially the nice ones.
+- 💞️ I’m looking to collaborate with like minded designer and devs
 - 📫 How to reach me:
   - <https://morethinks.com>
   - github@morethinks.com
